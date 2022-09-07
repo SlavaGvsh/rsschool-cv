@@ -1,5 +1,5 @@
 # Hi, I'm Vycheslav Gavrish 👋
-<span style="display:block; text-align:center; ">![Profile picture](/img/profile_picture.png "Profile picture")</span>
+<span style="display:block; text-align:center; ">![Profile picture](img/profile_picture.png "Profile picture")</span>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=SlavaGvsh&show_icons=true&count_private=true"><img
            height=150
