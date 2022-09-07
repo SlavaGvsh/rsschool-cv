@@ -1,5 +1,5 @@
 # Hi, I'm Vycheslav Gavrish 👋
-![Foto](/img/photo_2022-06-17_12-03-33.jpg "Foto")
+<span style="display:block; text-align:center; ">![Profile picture](/img/profile_picture.png "Profile picture")</span>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=SlavaGvsh&show_icons=true&count_private=true"><img
            height=150
@@ -11,11 +11,15 @@
    <a href="https://t.me/slava_gvsh">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+</p>
 <p align='center'>
    📫 How to reach me: <a href='mailto:slava.gvsh@gmail.com'>slava.gvsh@gmail.com</a>
 </p>
 <p align='center'>
     How to reach me: +38 (066) 938-00-74 (Viber, WhatsApp)
+</p>
+<p align='center'>
+   Nickname on the rs school discord server: Slava.gvsh#7729
 </p>
 
 ## About me:
@@ -33,7 +37,7 @@ I started learning HTML/CSS hard six months ago. I really like it and now I want
 * Wordpress.
 
 ## Languages:
-* English: A1.
+* English: A1( <span style="color:red">I am currently actively studying</span> ).
 * Russian.
 * Ukrainian.
 
